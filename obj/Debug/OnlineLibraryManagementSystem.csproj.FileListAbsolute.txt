@@ -16,3 +16,9 @@ E:\Ngugi1\Library management system\OnlineLibraryManagementSystem\OnlineLibraryM
 E:\Ngugi1\Library management system\OnlineLibraryManagementSystem\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.dll
 E:\Ngugi1\Library management system\OnlineLibraryManagementSystem\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.pdb
 E:\Ngugi1\Library management system\OnlineLibraryManagementSystem\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\bin\OnlineLibraryManagementSystem.dll.config
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\bin\OnlineLibraryManagementSystem.dll
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\bin\OnlineLibraryManagementSystem.pdb
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.dll
+C:\Users\Ngugi\Documents\GitHub\OnlineLibraryManagementSystem\obj\Debug\OnlineLibraryManagementSystem.pdb
